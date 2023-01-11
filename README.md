@@ -1,5 +1,4 @@
-![images (1)](https://user-images.githubusercontent.com/77411013/211865205-69645c99-b8db-48de-b154-cbd47d5b2aad.jpeg)
-![logo]()
+
 <h1 align="center">Merhaba 👋, ben Ferdi 
 Birgül</h1>
 <h3 align="center">Siber güvenlik uzmanı</h3>
@@ -23,13 +22,13 @@ Birgül</h1>
 
 <h3 align="left">Benimle bağlantı kurun:</h3>
 <p align="left">
-<a href="https://dev.to/ ferdi birgül" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto .svg" alt="ferdi birgül" height="30" width="40" /></a>
+<a href="https://dev.to/ ferdibirgül" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto .svg" alt="ferdi birgül" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ferdibirgül" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ferdibirgül" height="30" width="40" /></a >
-<a href="https://stackoverflow.com/users/ferdi birgül" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile- readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ferdi birgül" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/ferdibirgül" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile- readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ferdi birgül" height="30" width="40" /></a>
 <a href="https:/ /fb.com/siberrgram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons /Social/facebook.svg" alt="siberrgram" height="30" width="40" /></a>
 <a href="https://instagram.com/siberrgram" target="blank">< img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="siberrgram" height="30" width="40" />< /a>
-<a href="https://www.behance.net/ferdi birgül" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile- readme-generator/master/src/images/icons/Social/behance.svg" alt="ferdi birgül" height="30" width="40" /></a>
-<a href="https://hashnode .com/ferdi birgül" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ Social/hashnode.svg" alt="ferdi birgül" height="30" width="40" /></a>
+<a href="https://www.behance.net/ferdibirgül" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile- readme-generator/master/src/images/icons/Social/behance.svg" alt="ferdi birgül" height="30" width="40" /></a>
+<a href="https://hashnode .com/ferdibirgül" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ Social/hashnode.svg" alt="ferdi birgül" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/siberrgram" target=" boş"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="siberrgram" height="30" width="40" /></a>
 < /p>
 
