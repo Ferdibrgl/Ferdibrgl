@@ -1,3 +1,4 @@
+![images (1)](https://user-images.githubusercontent.com/77411013/211865205-69645c99-b8db-48de-b154-cbd47d5b2aad.jpeg)
 ![logo]()
 <h1 align="center">Merhaba 👋, ben Ferdi 
 Birgül</h1>
