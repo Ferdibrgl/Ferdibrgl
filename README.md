@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **Blog**
 
-- 🎟️ Don't forget to subscribe to my YouTube channel for cyber security training 🙂 https://youtube.com/@Ferdibirgul.
+- 🎟️ Don't forget to subscribe to my YouTube channel for cyber security training 🙂. https://youtube.com/@Ferdibirgul
 
 - 👨‍💻 All of my projects are available at [https://withkoji.com/@Ferdi.birgul](https://withkoji.com/@Ferdi.birgul)
 
