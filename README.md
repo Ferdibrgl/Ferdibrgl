@@ -1,4 +1,5 @@
-![logo](https://media.licdn.com/dms/image/D4D22AQE709rU1Cak2w/feedshare-shrink_800/0/1700413107316?e=1703116800&v=beta&t=OtenzCsI3PEK9x2150Y65jqgX255TXixLzd1F94KIZc)
+
+![logo](file:///C:/Users/brglf/Downloads/ferdi-birg%C3%BCl-_1_.svg)
 <h1 align="center">Hi 👋, I'm Ferdi Birgül</h1>
 <h3 align="center">cyber security expert and also a partner of hackthebox company 
 of course bug bounty hunting</h3>   
@@ -47,4 +48,3 @@ and my new cyber security e-books
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ferdibrgl&show_icons=true&locale=en" alt="ferdibrgl" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ferdibrgl&" alt="ferdibrgl" /></p>
-
