@@ -1,5 +1,5 @@
 
-![logo](file:///C:/Users/brglf/Downloads/ferdi-birg%C3%BCl-_1_.svg)
+![logo](https://i.pinimg.com/736x/c1/d1/5b/c1d15bb9a7b01a195886965670a856de.jpg)
 <h1 align="center">Hi 👋, I'm Ferdi Birgül</h1>
 <h3 align="center">cyber security expert and also a partner of hackthebox company 
 of course bug bounty hunting</h3>   
