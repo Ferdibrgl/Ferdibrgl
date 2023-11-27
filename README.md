@@ -1,8 +1,8 @@
-
 ![logo](https://i.pinimg.com/736x/c1/d1/5b/c1d15bb9a7b01a195886965670a856de.jpg)
 <h1 align="center">Hi 👋, I'm Ferdi Birgül</h1>
 <h3 align="center">cyber security expert and also a partner of hackthebox company 
 of course bug bounty hunting</h3>   
+<img src="https://tryhackme-badges.s3.amazonaws.com/starix.png" alt="TryHackMe">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferdibrgl&label=Profile%20views&color=0e75b6&style=flat" alt="ferdibrgl" /> </p>
 
@@ -48,3 +48,4 @@ and my new cyber security e-books
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ferdibrgl&show_icons=true&locale=en" alt="ferdibrgl" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ferdibrgl&" alt="ferdibrgl" /></p>
+
