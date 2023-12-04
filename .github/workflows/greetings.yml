@@ -1,16 +1,18 @@
-name: Greetings
-
-on: [pull_request_target, issues]
+name: GitHub Readme YouTube Cards
+on:
+  schedule:
+    # Runs every hour, on the hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
 
 jobs:
-  greeting:
+  deploy:
     runs-on: ubuntu-latest
-    permissions:
-      issues: write
-      pull-requests: write
     steps:
-    - uses: actions/first-interaction@v1
-      with:
-        repo-token: ${{ secrets.GITHUB_TOKEN }}
-        issue-message: "Message that will be displayed on users' first issue"
-        pr-message: "Message that will be displayed on users' first pull request"
+      - uses: DenverCoder1/github-readme-youtube-cards@main
+        with:
+          channel_id: UCZkFGvpheykE44ewsWIBFCQ
+          comment_tag_name: YOUTUBE-CARDS
+          youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
+          show_duration: true
+
