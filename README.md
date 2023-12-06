@@ -25,9 +25,6 @@ of course bug bounty hunting</h3>
 - ⚡ Fun fact **Hacker**
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=25F762&random=false&width=435&lines=Ferdi+Birg%C3%BCl+cyber+security+expert)](https://git.io/typing-svg)
-
-
 
 ### 📺 Latest YouTube Videos
 
