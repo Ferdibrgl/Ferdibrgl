@@ -1,3 +1,7 @@
+# 👨🏾‍💻👾 Ferdi Birgül
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=54F740&background=00000001&random=false&width=435&lines=Ferdi+Birg%C3%BCl+Cyber+Security+Expert)](https://git.io/typing-svg)
+
 ![logo](https://i.pinimg.com/736x/c1/d1/5b/c1d15bb9a7b01a195886965670a856de.jpg)
 <h1 align="center">Hi 👋, I'm Ferdi Birgül</h1>
 <h3 align="center">cyber security expert and also a partner of hackthebox company 
@@ -19,6 +23,18 @@ of course bug bounty hunting</h3>
 - 📫 How to reach me **ferdibrgl0919@gmail.com**
 
 - ⚡ Fun fact **Hacker**
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=25F762&random=false&width=435&lines=Ferdi+Birg%C3%BCl+cyber+security+expert)](https://git.io/typing-svg)
+
+
+
+### 📺 Latest YouTube Videos
+
+
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
 
 <a>I also provide cyber security trainings at the same time for more detailed information you can contact me from the links below
 
@@ -48,4 +64,6 @@ and my new cyber security e-books
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ferdibrgl&show_icons=true&locale=en" alt="ferdibrgl" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ferdibrgl&" alt="ferdibrgl" /></p>
+
+
 
