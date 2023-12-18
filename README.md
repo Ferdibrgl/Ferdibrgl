@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=54F740&background=00000001&random=false&width=435&lines=Ferdi+Birg%C3%BCl+Cyber+Security+Expert)](https://git.io/typing-svg)
 
-![logo](https://i.pinimg.com/736x/c1/d1/5b/c1d15bb9a7b01a195886965670a856de.jpg)
+![logo](https://i.pinimg.com/736x/a5/b9/71/a5b97195240910b4d222e13d4335af50.jpg)
 <h1 align="center">Hi 👋, I'm Ferdi Birgül</h1>
 <h3 align="center">cyber security expert and also a partner of hackthebox company 
 of course bug bounty hunting</h3>   
@@ -15,7 +15,10 @@ of course bug bounty hunting</h3>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 HACKTHEBOX company partner **Cybersecurity**
+-    Master **Cyber Security**: Unlock the Secrets [Watch this YouTube video with a summary by LINER!
 
+Master Cyber Security: Unlock the Secrets
+https://getliner.com/youtube?s=dgJcAqAqR4M7AZ]
 - 🤝 I’m looking for help with **Blog** [https://medium.com/@ferdibirgul] (https://medium.com/@ferdibirgul)
 
 - 👨‍💻 All of my projects are available at [https://withkoji.com/@Ferdi.birgul](https://withkoji.com/@Ferdi.birgul)
