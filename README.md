@@ -18,7 +18,7 @@ of course bug bounty hunting</h3>
 -    Master **Cyber Security**: Unlock the Secrets [Watch this YouTube video with a summary by LINER!
 
 Master Cyber Security: Unlock the Secrets
-https://getliner.com/youtube?s=dgJcAqAqR4M7AZ]
+https://youtu.be/A8cGX4InJU4?si=lbI_itDBM1SqMZaz]
 - 🤝 I’m looking for help with **Blog** [https://medium.com/@ferdibirgul] (https://medium.com/@ferdibirgul)
 
 - 👨‍💻 All of my projects are available at [https://withkoji.com/@Ferdi.birgul](https://withkoji.com/@Ferdi.birgul)
