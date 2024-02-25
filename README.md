@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Ferdi Birgül</h1>
 <h3 align="center">cyber security expert and also a partner of hackthebox company 
 of course bug bounty hunting</h3>   
-<img src="https://tryhackme-badges.s3.amazonaws.com/starix.png" alt="TryHackMe">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferdibrgl&label=Profile%20views&color=0e75b6&style=flat" alt="ferdibrgl" /> </p>
 
