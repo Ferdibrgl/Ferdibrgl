@@ -28,7 +28,7 @@ https://youtu.be/A8cGX4InJU4?si=lbI_itDBM1SqMZaz]
 
 <!-- Pro -->
 [![Stats](https://github-stats-alpha.vercel.app/api/?username=Ferdibrgl&cc=000&tc=fff&ic=fff&bc=000 "Stats")](https://github.com/Ferdibrgl "Stats")<br>
-Fun fact, I made [this](https://github.com/Ferdibrgl/readme-stats-github "Readme Stats Github") 🤓
+
 <!-- END YOUTUBE-CARDS -->
 
 
