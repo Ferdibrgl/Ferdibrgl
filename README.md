@@ -6,8 +6,8 @@
 <h1 align="center">Hi 👋, I'm Ferdi Birgül</h1>
 <h3 align="center">cyber security expert and also a partner of hackthebox company 
 of course bug bounty hunting</h3>   
-<a href="https://app.daily.dev/ferdibirgul"><img src="https://api.daily.dev/devcards/v2/gkF0CDsmHmWIG4M2br8W2.png?type=default&r=he7" width="356" alt="Ferdi Birgül's Dev Card"/></a>
 
+<a href="https://app.daily.dev/ferdibirgul"><img src="https://api.daily.dev/devcards/v2/gkF0CDsmHmWIG4M2br8W2.png?type=wide&r=34j" width="652" alt="Ferdi Birgül's Dev Card"/></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferdibrgl&label=Profile%20views&color=0e75b6&style=flat" alt="ferdibrgl" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ferdibrgl" alt="ferdibrgl" /></a> </p>
