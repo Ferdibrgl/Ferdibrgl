@@ -30,7 +30,7 @@ https://youtu.be/A8cGX4InJU4?si=lbI_itDBM1SqMZaz]
 
 
 <!-- Pro -->
-[![Stats](https://github-stats-alpha.vercel.app/api/?username=Ferdibrgl&cc=000&tc=fff&ic=fff&bc=000 "Stats")](https://github.com/Ferdibrgl "Stats")<br>
+[![Stats](https://github-stats-alpha.vercel.app/api/?username=Ferdibrgl&cc=000&tc=fff&ic=fff&bc=000 "Stats")](https://github.com/Ferdibrgl "Stats")<br> 
 
 <!-- END YOUTUBE-CARDS -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -40,9 +40,11 @@ https://youtu.be/A8cGX4InJU4?si=lbI_itDBM1SqMZaz]
 
 and my new cyber security e-books 
  DON'T MISS</a>
+  <br>
+<img src=https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif  align="right" width="100">
+</br>
 
 <a href="https://www.shopier.com/ShowProductNew/storefront.php?shop=Siberrgram&sid=Tk93Y25NVUMybzI0YVJsRzBfLTFfIF8g" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/HXo3mSpAZ4O0UaVdrbC5rFrYQnr4ryM9oUxflC5Hah5VDQ7cAptXmyFszsR9dKCPgeA=w480-h960-rw" alt="ferdi birgül" height="30" width="40" /></a>
- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
