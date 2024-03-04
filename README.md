@@ -2,12 +2,15 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=54F740&background=00000001&random=false&width=435&lines=Ferdi+Birg%C3%BCl+Cyber+Security+Expert)](https://git.io/typing-svg)
 
+
 ![logo](https://i.pinimg.com/736x/a5/b9/71/a5b97195240910b4d222e13d4335af50.jpg)
 <h1 align="center">Hi 👋, I'm Ferdi Birgül</h1>
 <h3 align="center">cyber security expert and also a partner of hackthebox company 
 of course bug bounty hunting</h3>   
 <a href="https://app.daily.dev/ferdibirgul"><img src="https://api.daily.dev/devcards/v2/gkF0CDsmHmWIG4M2br8W2.png?type=wide&r=euw" width="652" alt="Ferdi Birgül's Dev Card"/></a>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 - 🔭 HACKTHEBOX company partner **Cybersecurity**
+
 -    Master **Cyber Security**: Unlock the Secrets [Watch this YouTube video with a summary by LINER!
 
 Master Cyber Security: Unlock the Secrets
@@ -30,6 +33,7 @@ https://youtu.be/A8cGX4InJU4?si=lbI_itDBM1SqMZaz]
 [![Stats](https://github-stats-alpha.vercel.app/api/?username=Ferdibrgl&cc=000&tc=fff&ic=fff&bc=000 "Stats")](https://github.com/Ferdibrgl "Stats")<br>
 
 <!-- END YOUTUBE-CARDS -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
 <a>I also provide cyber security trainings at the same time for more detailed information you can contact me from the links below
@@ -50,13 +54,14 @@ and my new cyber security e-books
 </p>
 
 
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/FerdiBrgl"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/FerdiBrgl" /></a></p><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ferdibrgl&show_icons=true&locale=en" alt="ferdibrgl" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ferdibrgl&" alt="ferdibrgl" /></p>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
 
